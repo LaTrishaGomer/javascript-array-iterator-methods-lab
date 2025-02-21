@@ -290,9 +290,7 @@ old or older.
 
 // Complete the exercise in the space below:
 
-// const currentYear = new Date().getFullYear();
-// const isAdultPresent = devs.some((dev) => currentYear - dev.year >= 18);
-
+// const isAdultPresent = devs.some((dev) => 2025 - dev.year >= 18);
 
 // // Check your work:
 // console.log('Exercise 6 my result: ', isAdultPresent);
